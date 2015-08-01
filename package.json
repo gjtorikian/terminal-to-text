@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "terminal-to-text:convert"
   },
-  "repository": "https://github.com/atom/terminal-to-text",
+  "repository": "https://github.com/gjtorikian/terminal-to-text",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
