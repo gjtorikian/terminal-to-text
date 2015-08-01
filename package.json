@@ -1,0 +1,20 @@
+{
+  "name": "terminal-to-text",
+  "main": "./lib/terminal-to-text",
+  "version": "0.1.0",
+  "description": "Converts text copied from the terminal to regular text.",
+  "keywords": [
+    "terminal",
+    "editor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "terminal-to-text:convert"
+  },
+  "repository": "https://github.com/atom/terminal-to-text",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
