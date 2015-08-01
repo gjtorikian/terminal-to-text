@@ -1,7 +1,7 @@
 {
   "name": "terminal-to-text",
   "main": "./lib/terminal-to-text",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Converts text copied from the terminal to regular text.",
   "keywords": [
     "terminal",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
